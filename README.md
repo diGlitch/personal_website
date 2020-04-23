@@ -1,1 +1,4 @@
-personal_website
+# http://jcboerker.xyz
+
+Huge based and auto-deployed via Netlify.
+

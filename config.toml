@@ -1,0 +1,4 @@
+baseURL = "http://jcboerker.xyz/"
+languageCode = "en-us"
+title = "Jeremy Constantin Börker"
+theme = "blank"
